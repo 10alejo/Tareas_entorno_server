@@ -158,7 +158,7 @@ $msgGanador    = generarMensajeGanador($puntosJugado1, $puntosJugado2);
     </table>
 
     <footer>
-        <p><u>By Alberto López</u></p>
+        <p><u>By Alejandro Martín</u></p>
     </footer>
 </body>
 
